@@ -1,0 +1,32 @@
+.class1{
+    color: rgb(0, 255, 81); background-color:rgb(255, 0, 0); text-align: center;
+}
+
+.class2{
+    color: rgb(174, 0, 255); background-color:rgb(208, 255, 0); text-align: center;
+}
+.class3{
+    color: rgb(255, 0, 64); background-color:rgb(0, 255, 68); text-align: center;
+}
+.myborder1 {
+    background-color: red; 
+    border: 55px dashed green; 
+    text-align: center;
+    font-size: 8vw;
+}  
+.myborder2 {
+        background-color: green;
+        border: 25px dashed red;
+        text-align: center;
+        font-size: 2vw;
+}
+.green-text {color:rgb(0, 255, 21);
+}
+.red-text {color:rgb(255, 0, 0);
+}
+.blue-text {color:blue;
+}
+.yellow-text {color:rgb(242, 255, 0);
+}
+.purple-text {color:rgb(212, 0, 255);
+}
